@@ -1,0 +1,18 @@
+# Ignore virtual environment
+venv/
+
+
+__pycache__/
+*.pyc
+
+# Ignore Excel/data files
+*.xlsx
+*.xls
+*.csv
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore environment settings
+.env
