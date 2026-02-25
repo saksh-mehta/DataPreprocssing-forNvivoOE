@@ -1,9 +1,8 @@
 pandas
 openpyxl
-bertopic
 nltk
 scikit-learn
-tqdm
-openai
 googletrans==4.0.0-rc1
 deep-translator
+deepl
+python-dotenv
